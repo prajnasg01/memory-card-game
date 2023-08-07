@@ -1,4 +1,5 @@
 # memory-card-game
-An interesting game developed using HTML, CSS, Javascript. 
+An interesting card game developed using HTML, CSS, Javascript. 
 
-![Screenshot (161)](https://github.com/prajnasg01/memory-card-game/assets/108816955/132849fe-a98b-45af-bffe-73aec09f75d0)
+![Screenshot (160)](https://github.com/prajnasg01/memory-card-game/assets/108816955/255dfb62-146f-4e2a-a3d1-ab8552c77595)
+
