@@ -1,5 +1,6 @@
 # memory-card-game
 An interesting card game developed using HTML, CSS, Javascript. 
 
-![Screenshot (160)](https://github.com/prajnasg01/memory-card-game/assets/108816955/255dfb62-146f-4e2a-a3d1-ab8552c77595)
+<img width="601" alt="image" src="https://github.com/prajnasg01/memory-card-game/assets/108816955/644796c8-1e19-4b25-bf52-bdf7a34c7b2d">
+
 
